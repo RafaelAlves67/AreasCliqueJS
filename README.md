@@ -1,0 +1,2 @@
+# AreasCliqueJS
+Atividade de JavaScript 
